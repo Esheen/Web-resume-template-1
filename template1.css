@@ -1,0 +1,39 @@
+h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.contactinfo {
+	text-align: center;
+	margin: auto;
+}
+
+img {
+	height: 12px;
+}
+
+th {
+	text-align: left;
+}
+
+.table1 {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.table2 {
+	border: 3px solid black;
+}
+
+.table2 td {
+	padding: 5px;
+}
+
+.space {
+	height: 20px;
+}
